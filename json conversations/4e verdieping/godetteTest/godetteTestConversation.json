@@ -1,0 +1,4 @@
+{
+	"001" : {"name" : "Godette", "expression":"neutral", "text":"You found something."}
+	"002" : {"name" : "Player", "expression":"neutral", "text":"I don't know what it is, but at least it's something!"}
+}
